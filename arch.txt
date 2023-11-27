@@ -1,4 +1,7 @@
-sudo echo 'xset -b' >> ~/.xprofile // for xfce beep sone disabling
+sudo pacman -S newsbloat neofetch firefox vim 
+//at fresh installation
+
+sudo echo 'xset -b' >> ~/.xprofile // for xfce beep sound disabling
 aur
 optimus and prime-run // for hybrid laptop
 
