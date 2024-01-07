@@ -17,4 +17,4 @@ sudo systemctl enable ananicy
 sudo systemctl start ananicy
 
 //tools you wont regret
-sudo pacman -S xdotool btop htop
+sudo pacman -S xdotool btop htop yt-dlp
